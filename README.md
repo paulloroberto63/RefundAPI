@@ -63,3 +63,24 @@ npm run dev
 ✏️ PUT /refund/:id → Atualizar status
 
 ❌ DELETE /refund/:id → Excluir
+
+---
+
+🧾 Exemplo de Requisição
+
+{
+  "descricao": "Hospedagem",
+  "valor": 180.00,
+  "data": "2025-01-05"
+}
+
+ ---
+ 
+🧠 Funcionalidades
+
+✅ Cadastro de usuários
+✅ Login seguro
+✅ Solicitações de despesas
+✅ Histórico de reembolso
+✅ Atualização de status
+✅ Exclusão de pedidos
